@@ -1,0 +1,55 @@
+.checkout-page {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .checkout-summary {
+    margin-bottom: 30px;
+  }
+  
+  .checkout-summary table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .checkout-summary th, .checkout-summary td {
+    padding: 12px;
+    text-align: left;
+    border: 1px solid #ddd;
+  }
+  
+  .checkout-summary th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+  }
+  
+  .checkout-summary tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .checkout-summary td {
+    text-align: center;
+  }
+  
+  .checkout-form {
+    margin-top: 20px;
+  }
+  
+  .checkout-form input {
+    padding: 8px;
+    width: 100%;
+    margin: 10px 0;
+  }
+  
+  .place-order-button {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .place-order-button:hover {
+    background-color: #218838;
+  }
+  
